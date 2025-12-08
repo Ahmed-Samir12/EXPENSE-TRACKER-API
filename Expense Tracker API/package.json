@@ -1,0 +1,16 @@
+{
+  "name": "expense-tracker-api",
+  "version": "1.0.0",
+  "description": "An API for a personal finance app",
+  "license": "ISC",
+  "author": "Ahmed Samir",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.20.0"
+  }
+}

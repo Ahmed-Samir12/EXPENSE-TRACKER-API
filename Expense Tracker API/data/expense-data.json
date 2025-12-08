@@ -1,0 +1,422 @@
+[
+  {
+    "description": "Bus",
+    "amount": 285.69,
+    "category": "transport",
+    "date": "2025-10-17T18:28:20.030Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Pharmacy",
+    "amount": 5.11,
+    "category": "health",
+    "date": "2025-11-12T09:53:59.881Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Taxi",
+    "amount": 72.93,
+    "category": "transport",
+    "date": "2025-11-09T13:26:23.814Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Restaurant",
+    "amount": 60.51,
+    "category": "food",
+    "date": "2025-11-15T10:39:09.343Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Gas",
+    "amount": 118.32,
+    "category": "transport",
+    "date": "2025-12-18T14:37:38.470Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Internet",
+    "amount": 276.2,
+    "category": "bills",
+    "date": "2025-12-24T12:08:48.800Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Taxi",
+    "amount": 252.34,
+    "category": "transport",
+    "date": "2025-12-19T06:04:33.542Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Electricity",
+    "amount": 254.1,
+    "category": "bills",
+    "date": "2025-12-25T17:05:22.104Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Accessories",
+    "amount": 281.88,
+    "category": "shopping",
+    "date": "2025-11-06T08:22:58.897Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Shoes",
+    "amount": 225.51,
+    "category": "shopping",
+    "date": "2025-11-07T02:39:52.549Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Netflix",
+    "amount": 141.97,
+    "category": "entertainment",
+    "date": "2025-10-09T05:07:32.894Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Water",
+    "amount": 285.87,
+    "category": "bills",
+    "date": "2025-12-15T00:19:10.639Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Gifts",
+    "amount": 258.03,
+    "category": "other",
+    "date": "2025-11-01T09:21:28.337Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Books",
+    "amount": 162.58,
+    "category": "shopping",
+    "date": "2025-10-14T02:02:42.205Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Shoes",
+    "amount": 119.52,
+    "category": "shopping",
+    "date": "2025-10-20T06:41:25.581Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Netflix",
+    "amount": 196.18,
+    "category": "entertainment",
+    "date": "2025-11-08T18:22:34.401Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Insurance",
+    "amount": 150.14,
+    "category": "bills",
+    "date": "2025-11-18T19:40:33.012Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Uber",
+    "amount": 260.15,
+    "category": "transport",
+    "date": "2025-11-11T20:20:15.760Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Uber",
+    "amount": 143.55,
+    "category": "transport",
+    "date": "2025-10-17T03:10:27.708Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Haircut",
+    "amount": 197.67,
+    "category": "other",
+    "date": "2025-11-30T15:50:39.022Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Concert",
+    "amount": 219.04,
+    "category": "entertainment",
+    "date": "2025-12-24T21:29:24.746Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Phone",
+    "amount": 269.06,
+    "category": "bills",
+    "date": "2025-11-04T13:52:47.472Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Uber",
+    "amount": 103.18,
+    "category": "transport",
+    "date": "2025-11-21T15:23:03.230Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Water",
+    "amount": 112.75,
+    "category": "bills",
+    "date": "2025-11-20T23:21:09.550Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Taxi",
+    "amount": 279.9,
+    "category": "transport",
+    "date": "2025-10-19T21:53:20.651Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Shoes",
+    "amount": 259,
+    "category": "shopping",
+    "date": "2025-11-03T03:45:51.192Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Electronics",
+    "amount": 172.66,
+    "category": "shopping",
+    "date": "2025-11-03T07:10:45.524Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Dinner",
+    "amount": 281.82,
+    "category": "food",
+    "date": "2025-12-10T01:21:27.639Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Movies",
+    "amount": 129.91,
+    "category": "entertainment",
+    "date": "2025-11-11T12:24:13.607Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Pharmacy",
+    "amount": 272.8,
+    "category": "health",
+    "date": "2025-11-10T17:41:30.560Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Gym",
+    "amount": 34.71,
+    "category": "health",
+    "date": "2025-11-16T02:26:33.910Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Restaurant",
+    "amount": 132.87,
+    "category": "food",
+    "date": "2025-11-19T21:19:24.577Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Donations",
+    "amount": 45.94,
+    "category": "other",
+    "date": "2025-11-08T07:46:56.798Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Gym",
+    "amount": 288.59,
+    "category": "health",
+    "date": "2025-11-12T14:41:21.563Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Rent",
+    "amount": 177.69,
+    "category": "bills",
+    "date": "2025-11-16T09:58:45.814Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Fast food",
+    "amount": 176.6,
+    "category": "food",
+    "date": "2025-11-26T05:50:04.406Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Coffee shop",
+    "amount": 218.52,
+    "category": "food",
+    "date": "2025-10-19T17:16:22.865Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Books",
+    "amount": 71.74,
+    "category": "shopping",
+    "date": "2025-10-20T15:45:22.734Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Haircut",
+    "amount": 179.28,
+    "category": "other",
+    "date": "2025-12-21T08:47:22.357Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Dental",
+    "amount": 115.71,
+    "category": "health",
+    "date": "2025-10-29T06:34:41.145Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Books",
+    "amount": 298.94,
+    "category": "shopping",
+    "date": "2025-12-06T18:35:45.824Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Vitamins",
+    "amount": 69.72,
+    "category": "health",
+    "date": "2025-11-29T15:11:54.388Z",
+    "paymentMethod": "cash"
+  },
+  {
+    "description": "Doctor",
+    "amount": 134.87,
+    "category": "health",
+    "date": "2025-10-13T14:16:26.393Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Gym",
+    "amount": 66.83,
+    "category": "health",
+    "date": "2025-12-06T15:04:06.415Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Doctor",
+    "amount": 210.78,
+    "category": "health",
+    "date": "2025-11-04T17:59:50.381Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Haircut",
+    "amount": 34.16,
+    "category": "other",
+    "date": "2025-11-25T23:31:45.666Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Gas",
+    "amount": 78.3,
+    "category": "transport",
+    "date": "2025-11-19T11:55:02.999Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Movies",
+    "amount": 236.55,
+    "category": "entertainment",
+    "date": "2025-11-26T02:11:16.108Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Fast food",
+    "amount": 48.29,
+    "category": "food",
+    "date": "2025-11-21T17:11:17.389Z",
+    "paymentMethod": "credit-card"
+  },
+  {
+    "description": "Pet supplies",
+    "amount": 172.7,
+    "category": "other",
+    "date": "2025-11-16T19:46:35.468Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Movies",
+    "amount": 172.7,
+    "category": "entertainment",
+    "date": "2024-11-16T19:46:35.468Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Doctor",
+    "amount": 172.7,
+    "category": "health",
+    "date": "2024-11-16T19:46:35.468Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Fast food",
+    "amount": 172.7,
+    "category": "food",
+    "date": "2024-11-16T19:46:35.468Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Gas",
+    "amount": 172.7,
+    "category": "transport",
+    "date": "2024-11-16T19:46:35.468Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Donations",
+    "amount": 172.7,
+    "category": "other",
+    "date": "2024-11-16T19:46:35.468Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Accessories",
+    "amount": 172.7,
+    "category": "entertainment",
+    "date": "2024-11-16T19:46:35.468Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Fast food",
+    "amount": 172.7,
+    "category": "food",
+    "date": "2024-11-16T19:46:35.468Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Books",
+    "amount": 172.7,
+    "category": "shopping",
+    "date": "2024-11-16T19:46:35.468Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Books",
+    "amount": 172.7,
+    "category": "shopping",
+    "date": "2024-11-16T19:46:35.468Z",
+    "paymentMethod": "online"
+  },
+  {
+    "description": "Pet supplies",
+    "amount": 172.7,
+    "category": "other",
+    "date": "2024-11-16T19:46:35.468Z",
+    "paymentMethod": "online"
+  }
+]
